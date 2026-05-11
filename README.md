@@ -11,10 +11,17 @@ Asia Pacific University of Technology & Innovation Kuala Lumpur, Malaysia. Bache
 ## Skills
 
 General Skills: Exploratory Data Analysis, Time Series Analysis, Machine Learning, ETL. 
+
 Programming Language: Python, SQL, PHP, C.
+
 Visualization Tools: Tableau, Kibana
+
 Libraries / Framework: Scikit-learn, Streamlit, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Laravel.
+
 Tools: Docker, Airflow
+
 Techniques: Time Series Analysis, Forecasting, Machine Learning
+
 Modeling Algorithms: Regression, Random Forest, Decision Trees, Clustering, and Dimensionality Reduction.
+
 Others:Hugging Face.
